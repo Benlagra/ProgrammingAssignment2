@@ -2,6 +2,8 @@
 
 This repository contains the required file for the 2nd programming assignment of the Coursera course **R programming**.
 
+It has been forked from [the repository](https://github.com/rdpeng/ProgrammingAssignment2) of Prof. Peng as required in the brief of the assignment.
+
 
 The file [cachematrix.R](http://github.com/Benlagra/ProgrammingAssignment2/blob/master/cachematrix.R) defines two functions used to cache a given matrix and its inverse. 
 
